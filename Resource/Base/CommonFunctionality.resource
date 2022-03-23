@@ -3,7 +3,7 @@ Documentation       this program will automate the user to launch brower
 Library     SeleniumLibrary
 *** Variables ***
 ${BROWSER}      chrome
-${URL}      https://meesho.com/
+${URL}      https://www.jiomart.com/
 
 *** Keywords ***
 Launch Browser
